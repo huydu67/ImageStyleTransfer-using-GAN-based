@@ -7,11 +7,16 @@
 - Phát triển giao diện người dùng thân thiện để người dùng có thể tải lên hoặc vẽ ảnh đen trắng và xem kết quả chuyển đổi.
 
 ## Giao diện và chức năng
-<p align="center">
-  <img src="images/login_interface.jpg" alt="Giao diện đăng nhập" width="auto" height="auto" />
-  <img src="images/home_interface.jpg" alt="Giao diện trang chủ" width="auto" height="auto" />
-  <img src="images/function_interface.jpg" alt="Giao diện chức năng" width="auto" height="auto" />
-</p>
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <img src="images/login_interface.jpg" alt="Giao diện đăng nhập"/>
+    <p align="center">Giao diện đăng nhập</p>
+  </div>
+  <div>
+    <img src="images/home_interface.jpg" alt="Giao diện trang chủ"/>
+    <p align="center">Mô tả ảnh 2</p>
+  </div>
+</div>
 
 ## Cách sử dụng
 1. **Clone dự án:**
