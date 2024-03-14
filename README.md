@@ -8,8 +8,9 @@
 
 ## Giao diện và chức năng
 <div style="display: flex; justify-content: space-between;">
-  <img src="đường_dẫn_đến_hình_ảnh_1" alt="Mô tả ảnh 1" width="400" height="auto" />
-  <img src="đường_dẫn_đến_hình_ảnh_2" alt="Mô tả ảnh 2" width="400" height="auto" />
+  <img src="images/login_interface.jpg" alt="Giao diện đăng nhập" width="400" height="auto" />
+  <img src="images/home_interface.jpg" alt="Giao diện trang chủ" width="400" height="auto" />
+  <img src="images/function_interface.jpg" alt="Giao diện chức năng" width="400" height="auto" />
 </div>
 
 ## Cách sử dụng
