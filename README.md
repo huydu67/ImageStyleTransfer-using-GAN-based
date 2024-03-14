@@ -9,8 +9,8 @@
 ## Cách sử dụng
 1. **Clone dự án:**
     ```
-    git clone https://github.com/your_username/your_project.git
-    cd your_project
+    git clone https://github.com/huydu67/ImageStyleTransfer-using-GAN-based.git
+    cd ImageStyleTransfer-using-GAN-based
     ```
 
 2. **Cài đặt các thư viện:**
@@ -49,4 +49,4 @@
 - [Streamlit Documentation](https://docs.streamlit.io/)
 
 ## Tác giả
-- **[Hoang Huy Du](https://github.com/your_username)**
+- **[Hoang Huy Du](https://github.com/huydu67)**
