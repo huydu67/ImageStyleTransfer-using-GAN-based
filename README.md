@@ -12,9 +12,9 @@
 
 ### Giao diện chức năng
 * Chức năng vẽ ảnh
-  <img src="images/draw_options.jpg" width="300" height="auto" />
+  - <img src="images/draw_options.jpg" width="300" height="auto" />
 * Chức năng tải ảnh
-  <img src="images/upload_file_option.jpg" width="300" height="auto" />
+  - <img src="images/upload_file_option.jpg" width="300" height="auto" />
 ## Cách sử dụng
 1. **Clone dự án:**
     ```
