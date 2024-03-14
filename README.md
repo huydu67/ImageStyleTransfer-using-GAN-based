@@ -18,14 +18,14 @@
     pip install -r requirements.txt
     ```
 3. **Tải trọng số mô hình:**
-    ```
     Vì kích thước lớn của trọng số mô hình, chúng tôi đã lưu chúng trên Google Drive. Bạn có thể tải trọng số mô hình từ Google Drive và đặt chúng trong thư mục `models/` của dự án.
 
-    - [Trọng số mô hình Pix2Pix GAN](link_to_google_drive) - Trọng số của mô hình Pix2Pix GAN đã được huấn luyện.
+    - [Trọng số Generator network](https://drive.google.com/file/d/1wFPAjRY-WgQKj4XGHbIaBF4USSQkPleu/view?usp=sharing) - Trọng số của mạng Generator đã được huấn luyện.
+    - [Trọng số Discriminator network](https://drive.google.com/file/d/1JsD9Z7jfh3UXSf2WFeAUjw8Co90EZ7Vj/view?usp=sharing) - Trọng số của mạng Discriminator đã được huấn luyện.
 
-    Sau khi tải trọng số mô hình, hãy đảm bảo đặt chúng trong thư mục `models/` của dự án trước khi chạy ứng dụng.
+    Sau khi tải trọng số mô hình, hãy đặt chúng trong thư mục `models/` của dự án trước khi chạy ứng dụng.
 
-    ```
+
 
 4. **Chạy ứng dụng:**
     ```
@@ -42,7 +42,6 @@
 ## Cấu trúc dự án
 - **Login.py:** File chính của ứng dụng, chứa mã nguồn cho giao diện người dùng và xử lý logic.
 - **models/:** Thư mục chứa mô hình Pix2Pix GAN và các tập dữ liệu.
-- **static/:** Thư mục chứa các tài nguyên tĩnh như ảnh mẫu.
 - **requirements.txt:** File chứa danh sách các thư viện cần thiết để chạy dự án.
 
 ## Tài liệu tham khảo
@@ -50,4 +49,4 @@
 - [Streamlit Documentation](https://docs.streamlit.io/)
 
 ## Tác giả
-- **[Your Name](https://github.com/your_username)** - Tên của bạn
+- **[Hoang Huy Du](https://github.com/your_username)**
