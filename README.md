@@ -7,6 +7,7 @@
 - Phát triển giao diện người dùng thân thiện để người dùng có thể tải lên hoặc vẽ ảnh đen trắng và xem kết quả chuyển đổi.
 
 ## Giao diện và chức năng
+| ![Mô tả ảnh 1](images/login_interface.jpg) | ![Mô tả ảnh 2](images/home_interface.jpg) |
 <div style="display: flex; justify-content: space-around;">
   <div>
     <img src="images/login_interface.jpg" alt="Giao diện đăng nhập"/>
