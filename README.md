@@ -6,6 +6,12 @@
 - Xây dựng một ứng dụng có khả năng chuyển đổi ảnh từ đen trắng sang màu sử dụng mô hình Pix2Pix GAN.
 - Phát triển giao diện người dùng thân thiện để người dùng có thể tải lên hoặc vẽ ảnh đen trắng và xem kết quả chuyển đổi.
 
+## Giao diện và chức năng
+<div style="display: flex; justify-content: space-between;">
+  <img src="đường_dẫn_đến_hình_ảnh_1" alt="Mô tả ảnh 1" width="400" height="auto" />
+  <img src="đường_dẫn_đến_hình_ảnh_2" alt="Mô tả ảnh 2" width="400" height="auto" />
+</div>
+
 ## Cách sử dụng
 1. **Clone dự án:**
     ```
